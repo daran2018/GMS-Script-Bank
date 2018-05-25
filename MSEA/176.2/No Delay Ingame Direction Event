@@ -1,8 +1,0 @@
-define(removeDelay, 013E263A)
-[Enable]
-removeDelay:
-db 90 90
-
-[Disable]
-removeDelay:
-db 78 71
